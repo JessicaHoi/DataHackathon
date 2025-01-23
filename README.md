@@ -10,5 +10,15 @@
 5) git push
 
 
+# Data cleaning steps
+- remove duplicates
+- remove unnecessary rows/columns
+- remove symbols,links?
+- convert all text to lowercase
+- Spell Checks 
+- Tokenization.
+- remove stop words
+- Stemming
+
 
 
